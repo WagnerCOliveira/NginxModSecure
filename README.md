@@ -57,7 +57,7 @@ Instalação do module dinâmico entre o ModSecurity e Nginx
 git clone --depth 1 https://github.com/SpiderLabs/ModSecurity-nginx.git
 ```
 
-Execute nginx -v para baixar a versão que foi instalada
+Execute nginx -v para baixar a verão que foi instalada em seu servidor, e altere o comando wget para a versão correta.
 
 ```
 #wget http://nginx.org/download/nginx-1.14.2.tar.gz

@@ -51,9 +51,6 @@ Download e Instalação ModSecurity
 
 ```
 
-29/01/2019 Instalar Nginx e ModSecurity 3.0
-
-
 Instalação do module dinâmico entre o ModSecurity e Nginx
 
 ```
